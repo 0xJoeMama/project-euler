@@ -2,4 +2,4 @@
 
 set -xe
 
-deno run ./solution.js
+deno run $PWD/solution.js
