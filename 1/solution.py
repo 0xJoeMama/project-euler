@@ -1,5 +1,3 @@
-# Problem 1
-
 end = 1000
 sum = 0
 
